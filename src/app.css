@@ -324,7 +324,7 @@
 	}
 }
 
-@plugin 'flowbite/plugin';
+
 
 @custom-variant dark (&:where(.dark, .dark *));
 
@@ -352,8 +352,7 @@
   --color-secondary-900: #0c4a6e;
 }
 
-@source "../node_modules/flowbite-svelte/dist";
-@source "../node_modules/flowbite-svelte-icons/dist";
+
 
 @layer base {
   /* disable chrome cancel button */
