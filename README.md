@@ -3,8 +3,7 @@
 
 A simple, reusable, and event-based emoji picker built for Svelte. Perfect for chat apps, editors, and anything fun!
 
-![EmojiPicker Preview](public/emo-1.png)
-![EmojiPicker Preview](public/emo-2.png)
+
 
 ---
 
@@ -71,7 +70,8 @@ Import and use the emoji picker in any Svelte component:
 
 ## 📸 Preview
 
-![Emoji Grid](https://raw.githubusercontent.com/your-org/emoji-picker/main/demo/demo-ui.png)
+![EmojiPicker Preview](public/emo-1.png)
+![EmojiPicker Preview](public/emo-2.png)
 
 ---
 
